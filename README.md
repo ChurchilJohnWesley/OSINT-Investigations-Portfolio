@@ -16,8 +16,8 @@ This repository documents my practical application of **Open Source Intelligence
 ## 🕵️ Case Log
 | Case ID | Title | Methodology | Status |
 | :--- | :--- | :--- | :--- |
-| **001** | [Government Forensic Capabilities](Case-001-Gov-Forensics.md) | Google Dorks, PDF Analysis | ✅ Complete |
-| **002** | [Historical Web Analysis (Sendy)](Case-002-Historical-Web-Analysis.md) | Wayback Machine | ✅ Complete |
+| **001** | [Government Forensic Capabilities](https://github.com/ChurchilJohnWesley/OSINT-Investigations-Portfolio/blob/main/EACC%20Forensic%20capabilities.pdf) | Google Dorks, PDF Analysis | ✅ Complete |
+| **002** | [Historical Web Analysis (Sendy)](https://github.com/ChurchilJohnWesley/OSINT-Investigations-Portfolio/blob/main/OSINT%20Investigation%20web%20retrieval%20.pdf) | Wayback Machine | ✅ Complete |
 
 ---
 *Disclaimer: All investigations in this repository were conducted on public, open-source data in strict adherence to ethical guidelines. No active scanning or unauthorized access was performed.*
